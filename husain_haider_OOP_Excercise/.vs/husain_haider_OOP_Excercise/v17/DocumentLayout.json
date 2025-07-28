@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lenovo\\source\\repos\\husain_haider_OOP_Excercise\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EFFEA9C3-F1B7-4418-B7B0-7CC328010290}|husain_haider_OOP_Excercise\\husain_haider_OOP_Excercise.csproj|c:\\users\\lenovo\\source\\repos\\husain_haider_oop_excercise\\husain_haider_oop_excercise\\car .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFFEA9C3-F1B7-4418-B7B0-7CC328010290}|husain_haider_OOP_Excercise\\husain_haider_OOP_Excercise.csproj|solutionrelative:husain_haider_oop_excercise\\car .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFFEA9C3-F1B7-4418-B7B0-7CC328010290}|husain_haider_OOP_Excercise\\husain_haider_OOP_Excercise.csproj|c:\\users\\lenovo\\source\\repos\\husain_haider_oop_excercise\\husain_haider_oop_excercise\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFFEA9C3-F1B7-4418-B7B0-7CC328010290}|husain_haider_OOP_Excercise\\husain_haider_OOP_Excercise.csproj|solutionrelative:husain_haider_oop_excercise\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Car .cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\husain_haider_OOP_Excercise\\husain_haider_OOP_Excercise\\Car .cs",
+              "RelativeDocumentMoniker": "husain_haider_OOP_Excercise\\Car .cs",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\husain_haider_OOP_Excercise\\husain_haider_OOP_Excercise\\Car .cs",
+              "RelativeToolTip": "husain_haider_OOP_Excercise\\Car .cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwA8AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T15:04:18.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\husain_haider_OOP_Excercise\\husain_haider_OOP_Excercise\\Program.cs",
+              "RelativeDocumentMoniker": "husain_haider_OOP_Excercise\\Program.cs",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\husain_haider_OOP_Excercise\\husain_haider_OOP_Excercise\\Program.cs",
+              "RelativeToolTip": "husain_haider_OOP_Excercise\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T15:03:56.931Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

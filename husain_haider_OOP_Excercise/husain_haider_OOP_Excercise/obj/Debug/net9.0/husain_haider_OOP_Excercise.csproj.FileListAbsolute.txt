@@ -1,0 +1,14 @@
+C:\Users\lenovo\source\repos\husain_haider_OOP_Excercise\husain_haider_OOP_Excercise\bin\Debug\net9.0\husain_haider_OOP_Excercise.exe
+C:\Users\lenovo\source\repos\husain_haider_OOP_Excercise\husain_haider_OOP_Excercise\bin\Debug\net9.0\husain_haider_OOP_Excercise.deps.json
+C:\Users\lenovo\source\repos\husain_haider_OOP_Excercise\husain_haider_OOP_Excercise\bin\Debug\net9.0\husain_haider_OOP_Excercise.runtimeconfig.json
+C:\Users\lenovo\source\repos\husain_haider_OOP_Excercise\husain_haider_OOP_Excercise\bin\Debug\net9.0\husain_haider_OOP_Excercise.dll
+C:\Users\lenovo\source\repos\husain_haider_OOP_Excercise\husain_haider_OOP_Excercise\bin\Debug\net9.0\husain_haider_OOP_Excercise.pdb
+C:\Users\lenovo\source\repos\husain_haider_OOP_Excercise\husain_haider_OOP_Excercise\obj\Debug\net9.0\husain_haider_OOP_Excercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\source\repos\husain_haider_OOP_Excercise\husain_haider_OOP_Excercise\obj\Debug\net9.0\husain_haider_OOP_Excercise.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\husain_haider_OOP_Excercise\husain_haider_OOP_Excercise\obj\Debug\net9.0\husain_haider_OOP_Excercise.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\husain_haider_OOP_Excercise\husain_haider_OOP_Excercise\obj\Debug\net9.0\husain_haider_OOP_Excercise.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\husain_haider_OOP_Excercise\husain_haider_OOP_Excercise\obj\Debug\net9.0\husain_haider_OOP_Excercise.dll
+C:\Users\lenovo\source\repos\husain_haider_OOP_Excercise\husain_haider_OOP_Excercise\obj\Debug\net9.0\refint\husain_haider_OOP_Excercise.dll
+C:\Users\lenovo\source\repos\husain_haider_OOP_Excercise\husain_haider_OOP_Excercise\obj\Debug\net9.0\husain_haider_OOP_Excercise.pdb
+C:\Users\lenovo\source\repos\husain_haider_OOP_Excercise\husain_haider_OOP_Excercise\obj\Debug\net9.0\husain_haider_OOP_Excercise.genruntimeconfig.cache
+C:\Users\lenovo\source\repos\husain_haider_OOP_Excercise\husain_haider_OOP_Excercise\obj\Debug\net9.0\ref\husain_haider_OOP_Excercise.dll
