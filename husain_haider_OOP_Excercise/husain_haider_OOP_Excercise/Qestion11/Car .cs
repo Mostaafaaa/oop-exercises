@@ -4,16 +4,20 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace husain_haider_OOP_Excercise
+namespace husain_haider_OOP_Excercise.Qestion1
 {
+            /*
+            * Exercise 1: Create a Car class with attributes brand, model, and year. 
+            * Add smethods start() and stop(). Create 3 car objects and call their methods.
+            */
     public class Car
     {
-        public String brand;
-        public String model;
+        public string brand;
+        public string model;
         public int year;
         public static int NumberOfCars;
 
-        public Car(String aBrand,String aModel,int aYear)
+        public Car(string aBrand,string aModel,int aYear)
         {
             brand = aBrand;
             model = aModel;
