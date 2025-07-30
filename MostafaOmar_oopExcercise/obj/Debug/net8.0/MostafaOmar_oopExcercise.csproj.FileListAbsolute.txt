@@ -1,0 +1,14 @@
+D:\CSharp\Halal almshakl\MostafaOmar_oopExcercise\bin\Debug\net8.0\MostafaOmar_oopExcercise.exe
+D:\CSharp\Halal almshakl\MostafaOmar_oopExcercise\bin\Debug\net8.0\MostafaOmar_oopExcercise.deps.json
+D:\CSharp\Halal almshakl\MostafaOmar_oopExcercise\bin\Debug\net8.0\MostafaOmar_oopExcercise.runtimeconfig.json
+D:\CSharp\Halal almshakl\MostafaOmar_oopExcercise\bin\Debug\net8.0\MostafaOmar_oopExcercise.dll
+D:\CSharp\Halal almshakl\MostafaOmar_oopExcercise\bin\Debug\net8.0\MostafaOmar_oopExcercise.pdb
+D:\CSharp\Halal almshakl\MostafaOmar_oopExcercise\obj\Debug\net8.0\MostafaOmar_oopExcercise.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp\Halal almshakl\MostafaOmar_oopExcercise\obj\Debug\net8.0\MostafaOmar_oopExcercise.AssemblyInfoInputs.cache
+D:\CSharp\Halal almshakl\MostafaOmar_oopExcercise\obj\Debug\net8.0\MostafaOmar_oopExcercise.AssemblyInfo.cs
+D:\CSharp\Halal almshakl\MostafaOmar_oopExcercise\obj\Debug\net8.0\MostafaOmar_oopExcercise.csproj.CoreCompileInputs.cache
+D:\CSharp\Halal almshakl\MostafaOmar_oopExcercise\obj\Debug\net8.0\MostafaOmar_oopExcercise.dll
+D:\CSharp\Halal almshakl\MostafaOmar_oopExcercise\obj\Debug\net8.0\refint\MostafaOmar_oopExcercise.dll
+D:\CSharp\Halal almshakl\MostafaOmar_oopExcercise\obj\Debug\net8.0\MostafaOmar_oopExcercise.pdb
+D:\CSharp\Halal almshakl\MostafaOmar_oopExcercise\obj\Debug\net8.0\MostafaOmar_oopExcercise.genruntimeconfig.cache
+D:\CSharp\Halal almshakl\MostafaOmar_oopExcercise\obj\Debug\net8.0\ref\MostafaOmar_oopExcercise.dll
