@@ -5,6 +5,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{EFFEA9C3-F1B7-4418-B7B0-7CC328010290}|husain_haider_OOP_Excercise\\husain_haider_OOP_Excercise.csproj|c:\\users\\lenovo\\source\\repos\\husain_haider_oop_excercise\\husain_haider_oop_excercise\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EFFEA9C3-F1B7-4418-B7B0-7CC328010290}|husain_haider_OOP_Excercise\\husain_haider_OOP_Excercise.csproj|solutionrelative:husain_haider_oop_excercise\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFFEA9C3-F1B7-4418-B7B0-7CC328010290}|husain_haider_OOP_Excercise\\husain_haider_OOP_Excercise.csproj|c:\\users\\lenovo\\source\\repos\\husain_haider_oop_excercise\\husain_haider_oop_excercise\\qestion04\\bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFFEA9C3-F1B7-4418-B7B0-7CC328010290}|husain_haider_OOP_Excercise\\husain_haider_OOP_Excercise.csproj|solutionrelative:husain_haider_oop_excercise\\qestion04\\bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -24,9 +28,23 @@
               "RelativeDocumentMoniker": "husain_haider_OOP_Excercise\\main.cs",
               "ToolTip": "C:\\Users\\lenovo\\source\\repos\\husain_haider_OOP_Excercise\\husain_haider_OOP_Excercise\\main.cs",
               "RelativeToolTip": "husain_haider_OOP_Excercise\\main.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAALMAAAAAAAAAAAAAAM0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-29T12:46:31.439Z",
+              "WhenOpened": "2025-07-30T07:34:24.502Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BankAccount.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\husain_haider_OOP_Excercise\\husain_haider_OOP_Excercise\\Qestion04\\BankAccount.cs",
+              "RelativeDocumentMoniker": "husain_haider_OOP_Excercise\\Qestion04\\BankAccount.cs",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\husain_haider_OOP_Excercise\\husain_haider_OOP_Excercise\\Qestion04\\BankAccount.cs",
+              "RelativeToolTip": "husain_haider_OOP_Excercise\\Qestion04\\BankAccount.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAqwCoAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T09:51:44.69Z",
               "EditorCaption": ""
             }
           ]

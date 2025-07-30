@@ -1,9 +1,14 @@
 ﻿
+using husain_haider_OOP_Excercise.Qestion_05;
+using husain_haider_OOP_Excercise.Qestion06;
+using husain_haider_OOP_Excercise.Qestion07;
+using husain_haider_OOP_Excercise.Qestion08;
 using husain_haider_OOP_Excercise.Qestion1;
 using husain_haider_OOP_Excercise.Qestion13;
 using husain_haider_OOP_Excercise.Qestion2;
 using husain_haider_OOP_Excercise.Qestion20;
 using husain_haider_OOP_Excercise.Question14;
+using System.Runtime.InteropServices.Marshalling;
 
 namespace husain_haider_OOP_Excercise
 {
@@ -81,21 +86,122 @@ namespace husain_haider_OOP_Excercise
             Exercise 4: Create a BankAccount class with attributes account_number and balance. 
             Add methods deposit(amount), withdraw(amount), and check_balance().
             */
-            Console.WriteLine("4th Qstion: ");
+
+            //Console.WriteLine("4th Qstion: ");
+            //Console.WriteLine("------------");
+
+
+            //BankAccount accont = new BankAccount(12345, 1000);
+
+            //accont.deposit();
+            //accont.withdraw();
+            //accont.checheck_balanceck();
+
+
+
+
+
+            //Console.WriteLine("\n\n");
+
+
+
+
+
+            /*
+            Exercise 5: Create a Book class with attributes title, author, and price. 
+            Add a method get_discounted_price(percent).
+            */
+          
+            Console.WriteLine("5th Qstion: ");
             Console.WriteLine("------------");
 
 
-            BankAccount accont = new BankAccount(12345,2000);
+            Book b1 = new Book("The Alchemist", "Paulo Coelho", 9.81);
 
-            accont.deposit();
-            accont.withdraw();
-            accont.checheck_balanceck();
+            b1.get_discounted_price();
+
+
+
+            Console.WriteLine("\n\n");
+
+
+
+
+
+
+            /*
+             * Exercise 6: Create a ShoppingCart class that stores products (name and price). 
+             * Add methods add_product(name, price), remove_product(name), and total_price().
+             */
+
+
+            Console.WriteLine("6th Qstion: ");
+            Console.WriteLine("------------");
+
+
+            ShoppingCart cart = new ShoppingCart();
+            //  adding items that u want to buy
+            cart.add_product("shamop", 10);
+            cart.add_product("apples", 3);
+            cart.add_product("cheps", 4);
+            cart.add_product("soup", 1.5);
+
+            //  returning items u dont want anymore!
+            cart.remove_product("soup");
+
+            //  geting the total price receipt
+            cart.total_price();
+
 
 
 
 
 
             Console.WriteLine("\n\n");
+
+
+
+            /*
+            Exercise 7: Create a Shape class with a method area(). Create two subclasses: 
+            Circle (radius) and Square (side) that override area().
+            */
+
+
+            Console.WriteLine("7th Qstion: ");
+            Console.WriteLine("------------");
+
+            //  entering raduis of 2 meters
+            Circle c1 = new Circle(2) ;
+            
+            Console.WriteLine($"circle area is : {c1.area()}");
+
+            //  entering length of 2 meters
+            Square square = new Square(2) ;
+
+            Console.WriteLine($"square area is : {square.area()}");
+
+
+            Console.WriteLine("\n\n");
+
+
+
+            /*
+            Exercise 8: Create an Animal class with a method make_sound(). Create subclasses Dog, Cat, and Cow that override make_sound().
+            */
+
+            Console.WriteLine("8th Qstion: ");
+            Console.WriteLine("------------");
+
+            Cat cat = new Cat();
+            Dog dog = new Dog();
+            Cow cow = new Cow();
+
+            Console.WriteLine($"that cat: {cat.make_sound()}\nand the dog: {dog.make_sound()}\nand the cow: {cow.make_sound()}");
+
+
+
+
+
 
 
 
